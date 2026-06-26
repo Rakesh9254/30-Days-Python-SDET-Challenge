@@ -18,8 +18,8 @@ Welcome to the **30 Days Python Challenge for SDETs**! This repository documents
 |---|---|---|
 | Day 01 | [Python Setup & Environment](./Day-01-Python-Setup-Environment) | ✅ Completed |
 | Day 02 | [Variables & Data Types](./Day-02-Variables-DataTypes) | ✅ Completed |
-| Day 03 | [Operators](./Day-03-Operators) | ⏳ In Progress |
-| Day 04 | Input & Output | ❌ |
+| Day 03 | [Operators](./Day-03-Operators) | ✅ Completed |
+| Day 04 | [Input & Output](./Day-04-Input-Output) | ⏳ In Progress |
 | Day 05 | Conditional Statements | ❌ |
 | Day 06 | Loops | ❌ |
 | Day 07 | Functions | ❌ |
