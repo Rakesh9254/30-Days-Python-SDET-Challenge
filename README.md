@@ -20,32 +20,32 @@ Welcome to the **30 Days Python Challenge for SDETs**! This repository documents
 | Day 02 | [Variables & Data Types](./Day-02-Variables-DataTypes) | ✅ Completed |
 | Day 03 | [Operators](./Day-03-Operators) | ✅ Completed |
 | Day 04 | [Input & Output](./Day-04-Input-Output) | ⏳ In Progress |
-| Day 05 | Conditional Statements | ❌ |
-| Day 06 | Loops | ❌ |
-| Day 07 | Functions | ❌ |
-| Day 08 | Strings | ❌ |
-| Day 09 | Lists | ❌ |
-| Day 10 | Tuples | ❌ |
-| Day 11 | Dictionaries | ❌ |
-| Day 12 | Sets | ❌ |
-| Day 13 | Exception Handling | ❌ |
-| Day 14 | Modules & Packages | ❌ |
-| Day 15 | File Handling | ❌ |
-| Day 16 | OOP | ❌ |
-| Day 17 | Inheritance & Polymorphism | ❌ |
-| Day 18 | Iterators & Generators | ❌ |
-| Day 19 | Decorators | ❌ |
-| Day 20 | Virtual Environments & pip | ❌ |
-| Day 21 | Logging | ❌ |
-| Day 22 | JSON | ❌ |
-| Day 23 | API Requests | ❌ |
-| Day 24 | Database (SQLite/MySQL) | ❌ |
-| Day 25 | Pytest | ❌ |
-| Day 26 | Playwright with Python | ❌ |
-| Day 27 | API Testing with Python | ❌ |
-| Day 28 | Automation Framework Basics | ❌ |
-| Day 29 | End-to-End Automation Project | ❌ |
-| Day 30 | GitHub Portfolio & SDET Interview Preparation | ❌ |
+| Day 05 | [Conditional Statements](./Day-05-Conditional-Statements) | ✅ Completed |
+| Day 06 | [Loops](./Day-06-Loops) | ✅ Completed |
+| Day 07 | [Functions](./Day-07-Functions) | ✅ Completed |
+| Day 08 | [Strings](./Day-08-Strings) | ✅ Completed |
+| Day 09 | [Lists](./Day-09-Lists) | ✅ Completed |
+| Day 10 | [Tuples](./Day-10-Tuples) | ✅ Completed |
+| Day 11 | [Dictionaries](./Day-11-Dictionaries) | ✅ Completed |
+| Day 12 | [Sets](./Day-12-Sets) | ✅ Completed |
+| Day 13 | [Exception Handling](./Day-13-Exception-Handling) | ✅ Completed |
+| Day 14 | [Modules & Packages](./Day-14-Modules--Packages) | ✅ Completed |
+| Day 15 | [File Handling](./Day-15-File-Handling) | ✅ Completed |
+| Day 16 | [OOP](./Day-16-OOP) | ✅ Completed |
+| Day 17 | [Inheritance & Polymorphism](./Day-17-Inheritance--Polymorphism) | ✅ Completed |
+| Day 18 | [Iterators & Generators](./Day-18-Iterators--Generators) | ✅ Completed |
+| Day 19 | [Decorators](./Day-19-Decorators) | ✅ Completed |
+| Day 20 | [Virtual Environments & pip](./Day-20-Virtual-Environments--pip) | ✅ Completed |
+| Day 21 | [Logging](./Day-21-Logging) | ✅ Completed |
+| Day 22 | [JSON](./Day-22-JSON) | ✅ Completed |
+| Day 23 | [API Requests](./Day-23-API-Requests) | ✅ Completed |
+| Day 24 | [Database (SQLite/MySQL)](./Day-24-Database-SQLiteMySQL) | ✅ Completed |
+| Day 25 | [Pytest](./Day-25-Pytest) | ✅ Completed |
+| Day 26 | [Playwright with Python](./Day-26-Playwright-with-Python) | ✅ Completed |
+| Day 27 | [API Testing with Python](./Day-27-API-Testing-with-Python) | ✅ Completed |
+| Day 28 | [Automation Framework Basics](./Day-28-Automation-Framework-Basics) | ✅ Completed |
+| Day 29 | [End-to-End Automation Project](./Day-29-End-to-End-Automation-Project) | ✅ Completed |
+| Day 30 | [GitHub Portfolio & SDET Interview Preparation](./Day-30-GitHub-Portfolio--SDET-Interview-Preparation) | ✅ Completed |
 
 ## 📁 Daily Folder Structure
 Each day's folder contains:
